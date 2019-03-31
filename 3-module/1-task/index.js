@@ -5,6 +5,7 @@
  * @returns {string}
  */
 function showSalary(data, age) {
+
 }
 
 
